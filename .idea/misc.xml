@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable/button_about_background.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable/button_transparent.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable/dialog_background.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable/ic_launcher_background.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable/ic_volume_off_grey_24dp.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable/ic_volume_up_grey_24dp.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable/roundedbg.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable/roundedbtn.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable/roundedrelative.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/drawable/title_about_background.xml" value="0.122" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/font/font.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/font/meowtalk.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/activity_slide1.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/activity_slide2.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/activity_slide3.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/activity_splashscreen.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/activity_welcome.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/daily_item.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/fragment_daily.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/fragment_gallery.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/fragment_media.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/fragment_profil.xml" value="0.22" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/friend_item.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/grid_view.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/layout_about_dialog.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/layout_video_list_item.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/layout/list_item.xml" value="0.1796875" />
+        <entry key="..\:/Users/toshiba/AndroidStudioProjects/UTS_AKB_10119203/app/src/main/res/menu/main_menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

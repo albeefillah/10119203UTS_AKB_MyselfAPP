@@ -1,0 +1,99 @@
+<!--
+  ~     Tanggal Pengerjaan : 17/5/2022
+  ~     Nim : 10119203
+  ~     Nama : Albee Akbar Fillah
+  -->
+
+<resources>
+    <string name="app_name">Albee MyselfApp</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">KULINER</string>
+    <string name="slide_1_desc">Rasakan Berbagai Kuliner yang Akan Memanjakan Lidahmu</string>
+
+    <string name="slide_2_title">HOTEL</string>
+    <string name="slide_2_desc">Temukan Hotel yang Nyaman Untuk Istirahat Perjalananmu</string>
+
+    <string name="slide_3_title">WISATA</string>
+    <string name="slide_3_desc">Destinasi Menarik Menantimu. Segera Pilih Destinasi Wisatamu</string>
+
+    <string name="slide_4_title">GUIDE</string>
+    <string name="slide_4_desc">Cari Guide Untuk Menemani Perjalananmu Agar  semakin asyik </string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="deskripsi">Nama saya <b>Mirraz Ibrahim</b> dan sering dipanggil Mirraz. Saya lahir di Cirebon pada tanggal 25 Oktober 2000 sebagai anak kedua dari tiga bersaudara.
+        Saat ini, saya tinggal bersama orang tua dan keluarga di Serang Banten.\n\nBapak saya bernama Mufti, seorang Pegawai PLN, dan ibu saya bernama Nur Komala, seorang ibu rumah tangga.
+        Kakak saya bernama Muhammad Fadhil Yafi yang berbeda 6 tahun diatas saya.
+        Adik saya bernama Norman Zhafran yang berbeda 6 tahun dibawah saya.\n\nSaya beragama <b>Islam</b>, seperti juga keluarga saya. Saya memiliki ciri fisik tinggi 175 cm, berat badan 50 kg. Rambut saya hitam lurus dengan kulit sawo matang, khas orang Indonesia pada umumnya.
+    </string>
+    <string name="desc">Nama saya <b>Mirraz Ibrahim</b> dan sering dipanggil Mirraz. Saya lahir di Cirebon pada tanggal 25 Oktober 2000 sebagai anak kedua dari tiga bersaudara.
+        Saat ini, saya tinggal bersama orang tua dan keluarga di Serang Banten.</string>
+    <string name="interest">Hobby : Jalan-Jalan\nMakanan Kesukaan : Ayam Goreng\nMinuman Kesukaan : Cappuccino\nInterest : Front End Developer\nCita-Cita : Front End Developer</string>
+
+    <string name="google_maps_key" >AIzaSyAA2bStvFSuZ42iHRgDLutCR3G0Pz2ndEs</string>
+    <string name="hi"><b>Hi . . !</b></string>
+
+    <string name="about">about</string>
+    <string name="about_title">About</string>
+    <string name="dummy_text">Versi MySelf 1.0.0</string>
+    <string name="okay">Okay</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="todo">TODO</string>
+    <string name="hai">Halloo !</string>
+    <string name="its_me">Its me, Albee Akbar Fillah.</string>
+
+    <string name="myownapps">My Own Apps</string>
+    <string name="alasanbuat">Aku buat aplikasi ini biar kalian kenal aku.\nKan tak kenal maka tak sayang ehe</string>
+
+    <string name="letsgo">Lets Go</string>
+    <string name="siapkenal">Jangan lama-lama ah , yuk kenalan !</string>
+    <string name="description">Description</string>
+    <string name="example_application">Example application</string>
+    <string name="daily">Daily</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="friendlist">Friendlist</string>
+    <string name="gallery">Gallery</string>
+    <string name="photo">Photo</string>
+    <string name="home">Home</string>
+    <string name="albee">: Albee Akbar Fillah</string>
+    <string name="nim">NIM</string>
+    <string name="_10119203">: 10119203</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="if_5">: IF-5</string>
+    <string name="alamat">Alamat</string>
+    <string name="alamatlengkap">: Perumahan Bumi Cempaka Asri \nBlok F3/15 Padalarang</string>
+    <string name="agama">Agama</string>
+    <string name="islam">: Islam</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">: Laki-Laki</string>
+    <string name="interest2">Interest</string>
+    <string name="hobi">Hobi</string>
+    <string name="hangout">: Hangout</string>
+    <string name="makanan_kesukaan">Makanan Kesukaan</string>
+    <string name="bakso">: Bakso</string>
+    <string name="minuman_kesukaan">Minuman Kesukaan</string>
+    <string name="thaitea">: Thai tea</string>
+    <string name="football">: Football</string>
+    <string name="cita_cita">Cita-Cita</string>
+    <string name="webdev">: Web Developer</string>
+    <string name="media">Media</string>
+    <string name="music_favorite">Music Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="contact">Contact</string>
+    <string name="find_me">Find Me</string>
+    <string name="about2">About</string>
+    <string name="about_version_application">about version application</string>
+    <string name="example">Example</string>
+    <string name="this_is_the_title">This is the title</string>
+    <string name="facebook">Facebook</string>
+    <string name="social_media">Social Media</string>
+
+
+</resources>
